@@ -1,0 +1,1 @@
+The corrected CSS code removes the double quotes around the attribute value, making it a valid selector.  The `data-index` attribute does not require quotes because it's a number.   If it were a string, the quotes should be present.  In this case we remove the unnecessary quotes.
